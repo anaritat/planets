@@ -1,0 +1,4 @@
+*.dat
+
+# Exclude our results - the're large data
+results/
